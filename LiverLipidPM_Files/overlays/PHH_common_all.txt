@@ -1,0 +1,5 @@
+# NAME= PHH_common_all 
+name	color
+ULK1	#FF5733
+INSR	#FF5733
+ACADM	#FF5733
